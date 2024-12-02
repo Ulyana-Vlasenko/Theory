@@ -3,3 +3,4 @@
 
 [Анализ требований и макета](https://docs.google.com/spreadsheets/d/1wsep8lJfOtOKQSEAdwxFPFFETF43tvFPNC5O8eotiUQ/edit?usp=sharing)
 
+
